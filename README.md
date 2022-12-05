@@ -16,3 +16,4 @@ https://github.com/JeaSungLEE/iOSInterviewquestions
 주제
 - Copy On Write는 어떤 방식으로 동작하는지 설명하시오.
 - Convenience init에 대해 설명하시오.
+- AnyObject에 대해 설명하시오.
