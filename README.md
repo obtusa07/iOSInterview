@@ -2,6 +2,8 @@
 
 
 ## iOS 인터뷰에 관련한 면접 준비 스터디입니다.
+이재성님의 가이드를 참고로 하여 진행합니다.
+https://github.com/JeaSungLEE/iOSInterviewquestions
 
 ### 1주차 (11/28)
 
