@@ -17,3 +17,7 @@ https://github.com/JeaSungLEE/iOSInterviewquestions
 - Copy On Write는 어떤 방식으로 동작하는지 설명하시오.
 - Convenience init에 대해 설명하시오.
 - AnyObject에 대해 설명하시오.
+
+### 3주차 (12/10)
+- Subscripts에 대해 설명하시오. + String은 왜 subscript로 접근이 안되는지 설명하시오. 
+- Optional 이란 무엇인지 설명하시오.
