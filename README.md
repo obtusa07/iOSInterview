@@ -21,3 +21,4 @@ https://github.com/JeaSungLEE/iOSInterviewquestions
 ### 3주차 (12/10)
 - Subscripts에 대해 설명하시오. + String은 왜 subscript로 접근이 안되는지 설명하시오. 
 - Optional 이란 무엇인지 설명하시오.
+- 실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오. 
