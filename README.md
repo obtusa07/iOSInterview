@@ -18,9 +18,28 @@ https://github.com/JeaSungLEE/iOSInterviewquestions
 - Convenience init에 대해 설명하시오.
 - AnyObject에 대해 설명하시오.
 
-### 3주차 (12/17)
+### 3주차 (12/10)
+
+주제
 - Subscripts에 대해 설명하시오. + String은 왜 subscript로 접근이 안되는지 설명하시오. 
 - Optional 이란 무엇인지 설명하시오.
 - 실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오. 
 
-### 4주차 (12/24)
+### 4주차 (12/17)
+
+주제
+- instance 메서드와 class 메서드의 차이점 & class 메서드와 static 메서드의 차이점
+- Delegate 패턴을 활용하는 경우 & Singleton 패턴을 활용하는 경우
+- 실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오.
+
+### 5주차 (12/24)
+
+주제
+- KVO 동작 방식에 대해 설명하시오.
+- Delegates와 Notification 방식의 차이점에 대해 설명하시오.
+- 멀티 쓰레드로 동작하는 앱을 작성하고 싶을 때 고려할 수 있는 방식들을 설명하시오.
+- MVC 구조와 MVVM 구조에 대해 블록 그림을 그리고, 각 역할과 흐름을 설명하시오. 
+
+
+
+
