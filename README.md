@@ -40,6 +40,11 @@ https://github.com/JeaSungLEE/iOSInterviewquestions
 - 멀티 쓰레드로 동작하는 앱을 작성하고 싶을 때 고려할 수 있는 방식들을 설명하시오.
 - MVC 구조와 MVVM 구조에 대해 블록 그림을 그리고, 각 역할과 흐름을 설명하시오. 
 
+### 6주차 (12/29)
 
-
+주제
+- 프로토콜이란 무엇인지 설명하시오.
+- Protocol Oriented Programming과 Object Oriented Programming의 차이점을 설명하시오.
+- Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오.
+- mutating 키워드에 대해 설명하시오.
 
