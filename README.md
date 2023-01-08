@@ -48,3 +48,10 @@ https://github.com/JeaSungLEE/iOSInterviewquestions
 - Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오.
 - mutating 키워드에 대해 설명하시오.
 
+### 7주차 (1/7)
+
+주제
+- 탈출 클로저에 대하여 설명하시오.
+- Extension에 대해 설명하시오. + Extension 내부에서 함수를 override할 수 있는지 설명하시오.
+- 접근 제어자의 종류엔 어떤게 있는지 설명하시오.
+- Generic에 대해 설명하시오.
