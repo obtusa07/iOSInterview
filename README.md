@@ -55,3 +55,13 @@ https://github.com/JeaSungLEE/iOSInterviewquestions
 - Extension에 대해 설명하시오. + Extension 내부에서 함수를 override할 수 있는지 설명하시오.
 - 접근 제어자의 종류엔 어떤게 있는지 설명하시오.
 - Generic에 대해 설명하시오.
+
+### 8주차 (1/14)
+
+주제
+- defer란 무엇인지 설명하시오. + defer가 호출되는 순서는 어떻게 되고, defer가 호출되지 않는 경우를 설명하시오.
+- property wrapper에 대해서 설명하시오.
+- some 키워드에 대해 설명하시오.
+- Result타입에 대해 설명하시오.
+- Codable에 대하여 설명하시오.
+- Closure에 대하여 설명하시오. + Closure와 함수와의 관계에 대해 설명하시오.
