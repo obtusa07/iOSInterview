@@ -65,3 +65,10 @@ https://github.com/JeaSungLEE/iOSInterviewquestions
 - Result타입에 대해 설명하시오.
 - Codable에 대하여 설명하시오.
 - Closure에 대하여 설명하시오. + Closure와 함수와의 관계에 대해 설명하시오.
+
+### 9주차 (1/21)
+
+특별 주제
+- RxSwift 4시간에 끝내기 시즌2 (https://youtu.be/iHKBNYMWd5I) 학습 후 공유
+
+
