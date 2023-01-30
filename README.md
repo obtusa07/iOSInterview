@@ -75,5 +75,9 @@ https://github.com/JeaSungLEE/iOSInterviewquestions
 ### 10주차 (1/28)
 
 주제 
-- 
+- ARC란 무엇인지 설명하시오.
+- Retain Count 방식에 대해 설명하시오.
+- Strong 과 Weak 참조 방식에 대해 설명하시오.
+- 순환 참조에 대하여 설명하시오.
+- 강한 순환 참조 (Strong Reference Cycle) 는 어떤 경우에 발생하는지 설명하시오.
 
