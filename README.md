@@ -78,6 +78,36 @@ https://github.com/JeaSungLEE/iOSInterviewquestions
 - ARC란 무엇인지 설명하시오.
 - Retain Count 방식에 대해 설명하시오.
 - Strong 과 Weak 참조 방식에 대해 설명하시오.
+
+### 11주차 (2/4)
+
+특별 주제
+- GCD 강의 수강으로 DispatchQueue 스터디ㅍㅍ
+
+### 12주차 (2/12)
+
+특별 주제
+- GCD 강의 수강으로 OperationQueue 스터디
+
+### 13주차 (2/19)
+
+특별 주제
+- 원티드 iOS 프리온보딩(3월) 사전과제 수행 후 코드 리뷰
+
+### 14주차 (2/26)
+
+주제
+- Swift Concurrency 
+
+### 15주차 (3/5)
+
+주제
+- 미정
+
+
+
+
+
 - 순환 참조에 대하여 설명하시오.
 - 강한 순환 참조 (Strong Reference Cycle) 는 어떤 경우에 발생하는지 설명하시오.
 
